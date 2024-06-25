@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Chaoqi Chen. Now, I'm an Assistant Professor (Hundred Talents Program) at Shenzhen University.
 
-## Bio
+## About
 
 Dr. Chen is an Assistant Professor under the "Hundred Talents Program" at the School of Computer Science and Software Engineering, Shenzhen University. He obtained his PhD in Computer Science from The University of Hong Kong in May 2024, and earned his Master's and Bachelor's degrees from Xiamen University in 2020 and 2017, respectively. In June 2024, he joined the faculty at Shenzhen University, where his research focuses on machine learning and computer vision.
 
