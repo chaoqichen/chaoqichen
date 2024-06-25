@@ -1,13 +1,6 @@
 ## Hi there 👋
 I am Chaoqi Chen. Now, I'm an Assistant Professor (Hundred Talents Program) at Shenzhen University.
 
-<!--
-**chaoqichen/chaoqichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
 ## Selected Publications：
 
 1.  **Chaoqi Chen**, Jiongcheng Li, Hong-Yu Zhou, Xiaoguang Han, Yue Huang, Xinghao Ding, and Yizhou Yu. _Relation Matters: Foreground-Aware Graph-Based Relational Reasoning for Domain Adaptive Object Detection_. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), Vol 45, No 3, pp.3677-3694, 2023.
