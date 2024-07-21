@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Chaoqi Chen. Now, I'm an Assistant Professor (Hundred Talents Program) at Shenzhen University.
+Hi, this is Chaoqi Chen (陈超奇). I am a machine learning researcher.
 
 ## Selected Publications
 
