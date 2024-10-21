@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, this is Chaoqi Chen (陈超奇). I am a machine learning researcher from Shenzhen University.
+Hi, this is Chaoqi Chen (陈超奇). I am a machine learning researcher at Shenzhen University (SZU).
 
 ## Selected Publications
 
